@@ -1,0 +1,9 @@
+{
+        "title": "Wasteland Cup",
+        "cup": "wasteland",
+        "cp": 1500,
+        "meta": "wasteland",
+        "showCup": true,
+        "showFormat": true,
+        "showMeta": true
+    }
