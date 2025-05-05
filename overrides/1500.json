@@ -221,8 +221,8 @@
   },
   {
     "speciesId": "roserade",
-    "fastMove": "BULLET_SEED",
-    "chargedMoves": ["WEATHER_BALL_FIRE","LEAF_STORM"],
+    "fastMove": "POISON_STING",
+    "chargedMoves": ["WEATHER_BALL_FIRE","DAZZLING_GLEAM"],
     "weight": 1
   },
   {
