@@ -83,9 +83,9 @@
     "fastMove": "CONFUSION",
     "chargedMoves": ["TRAILBLAZE", "BRUTAL_SWING"]
 }, {
-    "speciesId": "bronzong",
-    "fastMove": "CONFUSION",
-    "chargedMoves": ["PSYSHOCK", "BULLDOZE"]
+    "speciesId": "ariados",
+    "fastMove": "POISON_STING",
+    "chargedMoves": ["LUNGE", "MEGAHORN"]
 }, {
     "speciesId": "crawdaunt",
     "fastMove": "SNARL",
@@ -93,7 +93,7 @@
 }, {
     "speciesId": "trevenant",
     "fastMove": "SHADOW_CLAW",
-    "chargedMoves": ["SEED_BOMB", "SHADOW_BALL"]
+    "chargedMoves": ["FOUL_PLAY", "SHADOW_BALL"]
 }, {
     "speciesId": "gourgeist_super",
     "fastMove": "HEX",
@@ -106,4 +106,8 @@
     "speciesId": "lairon",
     "fastMove": "METAL_CLAW",
     "chargedMoves": ["ROCK_TOMB", "BODY_SLAM"]
+}, {
+    "speciesId": "roserade",
+    "fastMove": "POISON_STING",
+    "chargedMoves": ["WEATHER_BALL_FIRE","DAZZLING_GLEAM"]
 }]
